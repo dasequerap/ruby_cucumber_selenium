@@ -1,0 +1,4 @@
+browser: firefox
+resource_dir: resources/
+data_file: records.yaml
+data_records: user_one,user_two,user_three

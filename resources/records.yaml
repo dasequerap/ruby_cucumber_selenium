@@ -1,0 +1,10 @@
+user_one:
+  user_name: selenium
+  password: selenium
+  login_page_title : "Login: Mercury Tours"
+  login_message: Login Successfully
+user_two:
+  user_name: tutorial
+  password: tutorial
+  login_page_title : "Login: Mercury Tours"
+  login_message: Login Successfully
